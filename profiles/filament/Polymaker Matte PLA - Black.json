@@ -1,0 +1,31 @@
+{
+    "default_filament_colour": [
+        "#232424"
+    ],
+    "filament_settings_id": [
+        "Polymaker Matte PLA - Black"
+    ],
+    "filament_vendor": [
+        "Polymaker"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "60"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "70"
+    ],
+    "inherits": "Generic PLA @System",
+    "is_custom_defined": "0",
+    "name": "Polymaker Matte PLA - Black",
+    "nozzle_temperature": [
+        "210"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "230"
+    ],
+    "nozzle_temperature_range_high": [
+        "230"
+    ],
+    "version": "2.3.0.3"
+}

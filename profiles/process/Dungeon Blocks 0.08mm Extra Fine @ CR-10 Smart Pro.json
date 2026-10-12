@@ -1,0 +1,14 @@
+{
+    "brim_object_gap": "0.2",
+    "brim_type": "outer_only",
+    "brim_width": "8",
+    "from": "User",
+    "inherits": "0.08mm Extra Fine @MyMarlin",
+    "ironing_type": "top",
+    "is_custom_defined": "0",
+    "name": "Dungeon Blocks 0.08mm Extra Fine @ CR-10 Smart Pro",
+    "print_settings_id": "Dungeon Blocks 0.08mm Extra Fine @ CR-10 Smart Pro",
+    "sparse_infill_density": "5%",
+    "version": "2.3.0.3",
+    "wall_loops": "2"
+}

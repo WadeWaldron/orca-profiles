@@ -1,0 +1,25 @@
+{
+    "compatible_printers": [
+        "MyMarlin 0.4 nozzle"
+    ],
+    "default_filament_colour": [
+        "#B6B6B6"
+    ],
+    "filament_flow_ratio": [
+        "1.03"
+    ],
+    "filament_settings_id": [
+        "Duramic PETG - Transparent"
+    ],
+    "from": "User",
+    "hot_plate_temp_initial_layer": [
+        "90"
+    ],
+    "inherits": "Generic PETG @System",
+    "is_custom_defined": "0",
+    "name": "Duramic PETG - Transparent",
+    "nozzle_temperature": [
+        "245"
+    ],
+    "version": "2.3.0.3"
+}

@@ -1,0 +1,8 @@
+{
+    "from": "User",
+    "inherits": "0.15mm Optimal @MyMarlin",
+    "is_custom_defined": "0",
+    "name": "0.15mm Optimal @ CR-10 Smart Pro",
+    "print_settings_id": "0.15mm Optimal @ CR-10 Smart Pro",
+    "version": "2.3.0.3"
+}

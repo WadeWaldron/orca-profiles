@@ -1,0 +1,25 @@
+{
+    "default_filament_colour": [
+        "#EEF2F2"
+    ],
+    "filament_settings_id": [
+        "Esun PLA+ - Cold White"
+    ],
+    "filament_vendor": [
+        "Creality"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "60"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "70"
+    ],
+    "inherits": "Generic PLA @System",
+    "is_custom_defined": "0",
+    "name": "Esun PLA+ - Cold White",
+    "nozzle_temperature": [
+        "205"
+    ],
+    "version": "2.3.0.3"
+}

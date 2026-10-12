@@ -1,0 +1,8 @@
+{
+    "from": "User",
+    "inherits": "0.08mm Extra Fine @MyMarlin",
+    "is_custom_defined": "0",
+    "name": "0.08mm Extra Fine @ CR-10 Smart Pro",
+    "print_settings_id": "0.08mm Extra Fine @ CR-10 Smart Pro",
+    "version": "2.3.0.3"
+}

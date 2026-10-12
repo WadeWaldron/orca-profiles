@@ -1,0 +1,11 @@
+{
+    "from": "User",
+    "inherits": "0.28mm Extra Draft @MyMarlin",
+    "is_custom_defined": "0",
+    "name": "0.28mm Extra Draft @ CR-10 Smart Pro",
+    "post_process": [
+        "/Users/wadewaldron/Documents/3DPrinter/add_cura_header.py"
+    ],
+    "print_settings_id": "0.28mm Extra Draft @ CR-10 Smart Pro",
+    "version": "2.3.0.3"
+}
